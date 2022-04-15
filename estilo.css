@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: antiquewhite;
+
+    
+    
+}
+.title{
+    padding: 30px;
+    font-family: 'Tahoma';
+    
+}
+
+.title__text{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    background-color:rgb(199, 172, 137);
+    border: solid 2px;
+    width: 300px;
+    height: 300px;
+    margin-left: 650px;
+    border-radius: 5px;
+    padding: 20px
+   
+    
+    
+}
+
+.form__form{
+    margin-bottom: 20px;
+    
+    
+}
+
+.form__label{
+    display: block;
+    padding: 10px;
+    font-family: 'Tahoma';
+    
+}
+
+.botao{
+    padding: 5px;
+    display: block;
+    margin-top: 5px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+input{
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.botao:hover{
+    background-color: orange;
+}
